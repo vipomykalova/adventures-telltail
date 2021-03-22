@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px 0 77px;
+}
+
+.scene {
+  margin-bottom: 45px;
+}
+
+.scene__imgDescContainer {
+  position: relative;
+  width: 950px;
+  height: 380px;
+}
+
+.scene__image {
+  width: 950px;
+  height: 380px;
+  object-fit: cover;
+}

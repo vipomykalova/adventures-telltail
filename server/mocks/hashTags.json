@@ -1,0 +1,97 @@
+[
+  {
+    "ruName": "магия",
+    "enName": "magic",
+    "adventureId": 1
+  },
+  {
+    "ruName": "хоррор",
+    "enName": "horror",
+    "adventureId": 1
+  },
+  {
+    "ruName": "приключение",
+    "enName": "adventure",
+    "adventureId": 1
+  },
+  {
+    "ruName": "магия",
+    "enName": "magic",
+    "adventureId": 2
+  },
+  {
+    "ruName": "квест",
+    "enName": "quest",
+    "adventureId": 2
+  },
+  {
+    "ruName": "квест",
+    "enName": "quest",
+    "adventureId": 3
+  },
+  {
+    "ruName": "квест",
+    "enName": "quest",
+    "adventureId": 4
+  },
+  {
+    "ruName": "хоррор",
+    "enName": "horror",
+    "adventureId": 3
+  },
+  {
+    "ruName": "квест",
+    "enName": "quest",
+    "adventureId": 5
+  },
+  {
+    "ruName": "магия",
+    "enName": "magic",
+    "adventureId": 6
+  },
+  {
+    "ruName": "квест",
+    "enName": "quest",
+    "adventureId": 7
+  },
+  {
+    "ruName": "приключение",
+    "enName": "adventure",
+    "adventureId": 7
+  },
+  {
+    "ruName": "квест",
+    "enName": "quest",
+    "adventureId": 8
+  },
+  {
+    "ruName": "приключение",
+    "enName": "adventure",
+    "adventureId": 9
+  },
+  {
+    "ruName": "квест",
+    "enName": "quest",
+    "adventureId": 9
+  },
+  {
+    "ruName": "магия",
+    "enName": "magic",
+    "adventureId": 10
+  },
+  {
+    "ruName": "хоррор",
+    "enName": "horror",
+    "adventureId": 11
+  },
+  {
+    "ruName": "магия",
+    "enName": "magic",
+    "adventureId": 11
+  },
+  {
+    "ruName": "квест",
+    "enName": "quest",
+    "adventureId": 11
+  }
+]

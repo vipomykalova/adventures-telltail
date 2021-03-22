@@ -1,0 +1,10 @@
+.header {
+  padding: 30px 55px;
+  border-bottom: 1px solid #959393;
+}
+
+.header__mainPage {
+  display: block;
+  width: 350px;
+  text-decoration: none;
+}

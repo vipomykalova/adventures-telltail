@@ -1,0 +1,19 @@
+.hashTags {
+  display: flex;
+  line-height: 38px;
+  font-family: Roboto, sans-serif;
+}
+
+.hashTags__link {
+  cursor: pointer;
+  display: block;
+  text-decoration: none;
+}
+
+.hashTags__linkName {
+  background: #b3b3b3;
+  border-radius: 4px;
+  color: #fff;
+  margin: 5px 5px 5px 0;
+  padding: 2px 8px;
+}

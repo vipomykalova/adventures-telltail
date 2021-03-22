@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Неудачник",
+    "image": "ah1.jpg",
+    "sceneId": 2
+  },
+  {
+    "name": "YOU DIED",
+    "image": "ah2.jpg",
+    "sceneId": 3
+  },
+  {
+    "name": "Трус",
+    "image": "ah3.jpg",
+    "sceneId": 6
+  },
+  {
+    "name": "Богач",
+    "image": "ah4.jpg",
+    "sceneId": 7
+  },
+  {
+    "name": "Силач",
+    "image": "ah5.jpg",
+    "sceneId": 7
+  }
+]

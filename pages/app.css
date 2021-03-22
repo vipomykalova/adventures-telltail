@@ -1,0 +1,55 @@
+body {
+  font: 18px Gabriela, sans-serif;
+  margin: 0;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.error {
+  text-align: center;
+}
+
+.hashTag {
+  font-size: 38px;
+  margin: 45px 110px;
+}
+
+.adventureList {
+  margin: 50px 100px;
+  padding: 0;
+}
+
+.scene__description_upLeft,
+.scene__description_upRight,
+.scene__description_downRight,
+.scene__description_downLeft {
+  display: block;
+  position: absolute;
+  width: 450px;
+  color: #fff;
+  margin: 0;
+}
+
+.scene__description_upLeft {
+  top: 35px;
+  left: 35px;
+}
+
+.scene__description_upRight {
+  top: 35px;
+  right: 35px;
+}
+
+.scene__description_downLeft {
+  left: 35px;
+  bottom: 35px;
+}
+
+.scene__description_downRight {
+  right: 35px;
+  bottom: 35px;
+}
+
+.scene__description_isBlack {
+  color: #000;
+}

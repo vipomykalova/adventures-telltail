@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Лес",
+    "sceneId": 1,
+    "nextSceneId": 2
+  },
+  {
+    "id": 2,
+    "name": "Кладбище",
+    "sceneId": 1,
+    "nextSceneId": 3
+  },
+  {
+    "id": 3,
+    "name": "Открыть",
+    "sceneId": 4,
+    "nextSceneId": 5
+  },
+  {
+    "id": 4,
+    "name": "Пройти мимо",
+    "sceneId": 4,
+    "nextSceneId": 6
+  },
+  {
+    "id": 5,
+    "name": "Сражаться",
+    "sceneId": 5,
+    "nextSceneId": 7
+  },
+  {
+    "id": 6,
+    "name": "Бросить золото",
+    "sceneId": 5,
+    "nextSceneId": 6
+  }
+]

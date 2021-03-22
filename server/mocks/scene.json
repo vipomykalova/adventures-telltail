@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "image": "s1.jpeg",
+    "description": "Впереди развилка.. Куда же мы отправимся дальше: полуночный лес, кишащий злыми тварями, или кладбище злых магов?",
+    "adventureName": "magician_in_Oz",
+    "descPosition": "upLeft"
+  },
+  {
+    "id": 2,
+    "image": "s2.jpeg",
+    "description": "О нет! Нас окружили злые маги! К сожалению, они забрали все твои силы... теперь ты обычный человек",
+    "adventureName": "magician_in_Oz",
+    "descPosition": "upRight"
+  },
+  {
+    "id": 3,
+    "image": "s3.jpg",
+    "description": "Вот не повезло! Честно, это приключение всегда ведет к драке, где ты, к сожалению, не побеждаешь...",
+    "adventureName": "magician_in_Oz",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 4,
+    "description": "Ну что ж, таинственный маг, перед тобой возник сундук, который не так уж и просто открыть.. Многие погибли, пытаясь его заполучить. Что выберешь ты?",
+    "adventureName": "epic_quest",
+    "descPosition": "upLeft"
+  },
+  {
+    "id": 5,
+    "image": "s5.jpg",
+    "description": "Ты получил много золота! О нет... Подожди, злые огры-маги пробудились...Что же делать...",
+    "adventureName": "epic_quest",
+    "descPosition": "downRight"
+  },
+  {
+    "id": 6,
+    "image": "s6.jpg",
+    "description": "Ну и какой эпичный квест состоится, если ты такой трусишка? Приходи, когда осмелишься!",
+    "adventureName": "epic_quest",
+    "descPosition": "upLeft"
+  },
+  {
+    "id": 7,
+    "image": "s7.jpg",
+    "description": "Поздравляю! Своей смелостью и отвагой (ну и силой конечно) ты одалел эту нечесть! Теперь можешь спокойно возвращаться домой с золотишком в руках",
+    "adventureName": "epic_quest",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 8,
+    "description": "Это пробный квест",
+    "adventureName": "ex_quest1",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 9,
+    "description": "Это пробный квест",
+    "adventureName": "ex_quest2",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 10,
+    "description": "Это пробный квест",
+    "adventureName": "ex_quest3",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 11,
+    "description": "Это пробный квест",
+    "adventureName": "ex_quest4",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 12,
+    "description": "Это пробный квест",
+    "adventureName": "ex_quest5",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 13,
+    "description": "Это пробный квест",
+    "adventureName": "ex_quest6",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 14,
+    "description": "Это пробный квест",
+    "adventureName": "ex_quest7",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 15,
+    "description": "Это пробный квест",
+    "adventureName": "ex_quest8",
+    "descPosition": "downLeft"
+  },
+  {
+    "id": 16,
+    "description": "Это пробный квест",
+    "adventureName": "ex_quest9",
+    "descPosition": "downLeft"
+  }
+]
