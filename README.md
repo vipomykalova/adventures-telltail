@@ -1,5 +1,5 @@
 # Сервис интерактивных приключений TellTail Games
-[adventures-telltail](https://adventures-telltail.herokuapp.com/)
+[Демонстрация](https://adventures-telltail.herokuapp.com/)
 
 Данный проект является сервисом интерактивных приключений.
 
